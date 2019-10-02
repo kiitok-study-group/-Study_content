@@ -1,2 +1,2 @@
-# -Study_content
+# Study_content
 毎週水曜日に実施しているオンライン勉強会で実施する内容を公開する場所
